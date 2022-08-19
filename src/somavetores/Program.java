@@ -29,7 +29,7 @@ public class Program {
 			vetorC[i] = vetorA[i] + vetorB[i];
 			System.out.println(vetorC[i]);
 		}
-
+		sc.close();
 	}
 
 }
